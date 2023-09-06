@@ -1,0 +1,5 @@
+fastapi>=0.101.1
+requests
+sqlalchemy
+pytest
+uvicorn[standard]
